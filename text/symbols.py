@@ -4,7 +4,7 @@ Defines the set of symbols used in text input to the model.
 
 _pad        = '_'
 _punctuation = ',.!?-~…'
-_letters = 'AEINOQUabdefghijklmnoprstuvwyzʃʧʦɯɹəɥ⁼ʰ`→↓↑ ๆไำพะัีรนยบลฟหกดเ้่าสวงผปแอิืทมใฝฦฬฒ?์ฺฮฉ.ซศษ๋็ฌโฏฆฤ๐"ฎฑธํ๊ณฯญฐภถุูึคตจขช๙๘๗๖๕๔๓๒๑)'
+_letters = 'AEINOQUabdefghijklmnoprstuvwyzʃʧʦɯɹəɥ⁼ʰ`→↓↑ ๆไำพะัีรนยบลฟหกดเ้่าสวงผปแอิืทมใฝฦฬฒ?์ฺฮฉ.ซศษ๋็ฌโฏฆฤ๐ฎฑธํ๊ณฯญฐภถุูึคตจขช๙๘๗๖๕๔๓๒๑)'
 
 
 
